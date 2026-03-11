@@ -11,7 +11,7 @@ Official component library for [BertUI](https://www.npmjs.com/package/bertui). 1
 ## Install
 
 ```bash
-bun add bertui-components
+bun add @peaseernest/bertui-components
 ```
 
 ---
