@@ -1,0 +1,26 @@
+{
+  "name": "@peaseernest/bertui-components",
+  "version": "1.0.0",
+  "description": "Official component library for BertUI",
+  "type": "module",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./styles": "./src/styles/bertui-components.css"
+  },
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": ["bertui", "react", "components", "ui", "sidebar", "carousel", "navbar"],
+  "author": "Pease Ernest",
+  "license": "MIT"
+}
